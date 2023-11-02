@@ -76,6 +76,7 @@ while True:
             print("Student not found.")
 
     elif choice == "5":
+        print("Bye!!!")
         break
     else:
         print("Invalid option. Please select a valid option.")
